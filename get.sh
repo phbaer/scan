@@ -7,7 +7,6 @@ then
 fi
 
 CONTAINER=phbaer/scan
-CONTAINER=e0b407b92bf1
 OUTPUT_DIR=$1
 FILENAME=$2
 TITLE=$3
